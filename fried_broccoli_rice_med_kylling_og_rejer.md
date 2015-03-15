@@ -5,7 +5,7 @@ tags: rejer
 
 ## Ingredienser
   - 1 stk løg
-  - 2 stk hvidløg
+  - 2 stk fed hvidløg
   - ? ingefær
   - 1 stk lime (saften)
   - 1 tsk thai Curry (rød)
