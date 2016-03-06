@@ -7,7 +7,7 @@ tags: svin
   - 4 stk kotteletter
   - 1 pk bacon
   - 1 spsk kokosolie
-  - 2 stk avocado
+  - 2 stk avokado
   - 1 stk broccolli
   - 1 stk peberfrugt
   - 2 stk forårsløg

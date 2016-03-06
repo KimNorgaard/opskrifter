@@ -10,7 +10,7 @@ url: http://ganeoggaffel.dk/2013/01/mere-vintersalat/
   - 2 håndfulde frisk spinat – kan udelades og erstattes af mere salat
   - 1 dusk kørvel – kan erstattes af andre krydderurter
   - 2 stk grapefrugter. Gerne de pink slags.
-  - 2 stk avocadoer
+  - 2 stk avokado
   - 0,25 stk granatæble (evt.)
   - 1 stk lille rødløg/skalotteløg (kan udelades, hvis du ikke er så meget til rå løg i salater)
 
@@ -37,17 +37,17 @@ url: http://ganeoggaffel.dk/2013/01/mere-vintersalat/
 
 ### Salat
   1. Alt det grønne skylles og tørres.
-  2. Avocadoerne skives
+  2. Avokadoerne skives
   3. Grapefrugterne fileteres [sådan her](http://ganeoggaffel.dk/2012/03/how-to-fileter-en-grape/)
   4. Rødløget skæres i tynde skiver.
-  5. Vend salat, grape og avocado i dressingen og strø mandlerne og evt. granatæblekerner ud over salaten.
+  5. Vend salat, grape og avokado i dressingen og strø mandlerne og evt. granatæblekerner ud over salaten.
   
 ### Marinade
   1. Pres saften ud af graperesterne efter du har fileteret.
   2. Bland med resten af ingredienserne og smag til med salt og peber og evt. lidt mere honning.
 
 ### Bland
-Vend salat, grape og avocado i dressingen og strø mandlerne og evt. granatæblekerner ud over salaten.
+Vend salat, grape og avokado i dressingen og strø mandlerne og evt. granatæblekerner ud over salaten.
 
 ## Noter
 Hvis du har travlt, så tror jeg også salaten fungerer fint med helt almindelige, dødelige mandler.
